@@ -2,7 +2,7 @@
 
 A physics-based simulation of a lunar module landing on the Moon using PID-controlled autopilot, written in C++.
 ## Inspiration 
-I saw a guy on youtube simulate an entire solar system. That was the inspiration and the goal for me.
+I saw a guy on youtube simulate an entire solar system using C++. That was the inspiration and the goal for me.
 
 ## Overview
 
