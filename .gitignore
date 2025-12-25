@@ -1,0 +1,13 @@
+Content:
+```
+# Compiled executables
+lunar_lander
+*.exe
+*.out
+
+# Object files
+*.o
+
+# IDE files
+.vscode/
+.DS_Store
